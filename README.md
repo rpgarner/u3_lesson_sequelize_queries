@@ -24,7 +24,7 @@ When we define our `Sequelize` models, you'll notice that the model defined inhe
 
 ### `Model.findAll`
 
-![](<https://sei-r.s3.amazonaws.com/Uploaded+using+RayThis+Extension+(4).png>)
+![](<https://sei-r.s3.amazonaws.com/Uploaded+using+RayThis+Extension.png>)
 
 The `findAll` method will query a `table` matching our `model` and return all results. If a filter is provided, or a `where` clause, we can filter results `where` a certain condition is met.
 
