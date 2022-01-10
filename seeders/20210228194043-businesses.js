@@ -7,7 +7,7 @@ module.exports = {
       return {
         name: faker.company.companyName(),
         address: address,
-        rating: faker.random.number({ min: 0, max: 5 }),
+        rating: faker.datatype.number({ min: 0, max: 5 }),
         createdAt: new Date(),
         updatedAt: new Date()
       }
