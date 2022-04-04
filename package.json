@@ -4,10 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@ngneat/falso": "^3.1.0",
     "pg": "^8.5.1",
     "sequelize": "^6.5.0"
-  },
-  "devDependencies": {
-    "faker": "^5.4.0"
   }
 }
