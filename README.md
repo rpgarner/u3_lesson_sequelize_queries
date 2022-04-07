@@ -64,7 +64,7 @@ The `update` method will update a record or records and return an array with the
 
 Just because `Sequelize` provides us with `methods` to execute queries does not mean they are perfect. `ORM`'s are notorious for performing more operations than necessary when querying. If you feel that you can execute a complex query and `Sequelize` is taking too long, you can write your own!
 
-## You Do
+## We Do
 
 In the provided `queries.js` file, you'll create functions to execute several queries, utilize the `stringify` method provided to print the results to the console.
 
